@@ -1,4 +1,4 @@
-a.
+## Part 1a
 
 1. values added:  20
 2. final result:  20
@@ -7,7 +7,7 @@ a.
 5. error: constants cannot be reassigned
 6. error: even if the constant is not reassigned, since result is declared in if block it will not exist outside if block
 
-b.
+## Part 1b
 
 1. Console prints out 3 because i iterates 3 times in the for loop and i was declared with var
 2. Console prints out 150 because the last value in prices is 300 and the discount is 0.5, so 300 * (1 - 0.5) is 150 and discountedPrice was declared with var
